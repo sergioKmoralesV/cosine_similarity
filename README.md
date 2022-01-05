@@ -1,2 +1,2 @@
-# cosine_similarity
+# cosine similarity
 Cosine similarity to compare two sentences
